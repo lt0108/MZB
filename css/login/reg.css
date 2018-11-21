@@ -364,7 +364,7 @@ input[type=number]::-webkit-outer-spin-button {
 .all-back {
     height: 100%;
     width: 100%;
-    background-image: url(/img/all.jpg);
+    background-image: url(../../img/all.jpg);
     -webkit-filter: blur(46px);
     -moz-filter: blur(15px);
     -o-filter: blur(15px);
